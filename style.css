@@ -1,0 +1,40 @@
+header{
+	background-color: green;
+	text-align: center;
+	height: 50px;
+}
+nav a:hover{
+	background: red;
+	color: white;
+	transition: 0.7s ease;
+	padding: 6px;
+	border-radius: 5px;
+}
+h1{
+	text-align: center; 
+	color: #22eedd40;
+	font-size: 40px;
+	text-transform: capitalize;
+}
+header{
+	background-color: #22ffcc;
+	height:40px;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
+nav a{
+	color: #33aa22;
+	margin: 12px;
+	text-transform: capitalize;
+	text-decoration: none;
+	font-weight: 600px;
+
+}
+nav a{
+	color: red;
+	text-transform: capitalize;
+	margin: 12px;
+	font-weight: 600px;
+	
+}
